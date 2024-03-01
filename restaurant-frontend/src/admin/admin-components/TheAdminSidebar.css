@@ -1,0 +1,9 @@
+.active {
+    background-color: #FFD100;
+    font-weight: 700;
+    color: #fff;
+} 
+.admin:hover {
+    background-color: #FFD100;
+    color: #fff;
+}
